@@ -9,8 +9,8 @@
 Вихідні дані: вивести час в годинах, за який гості разом можуть з’їсти пиріг. Результат округлити до 2 знаків після коми
 
 Код:
-#include <stdio.h>
 
+#include <stdio.h>
 int main() {
     double t1, t2, t3;
     printf("Enter three values: ");
